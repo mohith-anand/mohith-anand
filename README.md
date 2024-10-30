@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohith-anand
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning ML
-- 📫 How to reach me - mohithanand@gmail.com
+- 📫 How to reach me - mohithanand24@gmail.com
 
 <!---
 mohith-anand/mohith-anand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
